@@ -7,3 +7,6 @@ From the list of datasets I can pose a querey to slim down the list to relavent 
 NOTE: the 'requests' package has a great SQL dictionary implemented so that you can easily put in search queries without knowing the proper SQL syntax. Just put in the information as a dictionary-type and set that equal to 'params' when calling the requests function. (I'm slowly learning how great 'requests' is for api's. If there is something better then let me know!)
 
 Once I had my list, I opened the .json file for every dataset and searched specifically within that dataset. If I found something I liked, I stored it into a csv file.
+
+
+Tag: Socrata SODA Open Data LA City data.lacity.org
